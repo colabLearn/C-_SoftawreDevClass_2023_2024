@@ -22,9 +22,9 @@ int main(){
    cout<<"=============Part1 Variables==========================" <<endl;
   cout<< "Model: " << part1.modelnumber <<endl;
   cout<< "Part: "  << part1.partNumber <<endl;
-  cout<< "Cost: " << part1.cost << endl;
+  cout<< "Cost: $" << part1.cost << endl;
   cout<<"=============Part2 Variables==========================" <<endl;
   cout<< "Model: " << part2.modelnumber <<endl;
   cout<< "Part: "  << part2.partNumber <<endl;
-  cout<< "Cost: " << part2.cost << endl;
+  cout<< "Cost: $" << part2.cost << endl;
 }
