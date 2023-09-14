@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 
-
 // -------------------------------------------------------
 struct Distance{
     int feet;
@@ -32,7 +31,6 @@ int main(){
     cout<< "Dining room area is: " << l*w
     <<" Square feet \n";
     return 0;
-
 
     // Distance d1, d3; //define two Distances 
     // Distance d2 = {11, 6.25};
